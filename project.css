@@ -83,7 +83,8 @@ h1{
     align-items: center;
     position: absolute;
     left: 50%;
-    bottom: 20%;
+    bottom: 10%;
+    
 }
 .opa{
     opacity: 0.5;
